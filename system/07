@@ -1,0 +1,1 @@
+ps u -C sshd | tail -n 2 | awk 'NF{NF-=1};1'
