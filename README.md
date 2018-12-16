@@ -1,3 +1,3 @@
 # Init
 
-System and Network Administration introcutory project
+System and Network Administration introductory project
